@@ -1,0 +1,1 @@
+../../../../../node_modules/quickblox-react-native-sdk/ios/QBPlatformCore/QBSerializer/QBMessage/QBChatMessage+QBSerializer.h
