@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.quickblox:quickblox-android-sdk-chat:3.9.10@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d4e5ab2c9d933f19f26e34800a000cc/jetified-quickblox-android-sdk-chat-3.9.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/58991f6ef79b8c7853270b6753ea9ba9/transformed/jetified-quickblox-android-sdk-chat-3.9.10/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/58991f6ef79b8c7853270b6753ea9ba9/transformed/jetified-quickblox-android-sdk-chat-3.9.10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/58991f6ef79b8c7853270b6753ea9ba9/transformed/jetified-quickblox-android-sdk-chat-3.9.10/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

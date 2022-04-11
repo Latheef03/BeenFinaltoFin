@@ -1,0 +1,51 @@
+{
+    "Register": {
+        "name": "",
+        "email": "",
+        "password": "",
+        "fcm_token":""
+    },
+
+    "Verifyotp": {
+        "email": "",
+        "otp": ""
+    },
+
+    "Login": {
+        "email": "",
+        "password": "",
+        "fcm_device_token":""
+    },
+
+    "Forgotpassword":{
+        "email":""
+    },
+
+    "Setpassword":{
+        "Email":"",
+        "password":""
+    },
+
+    "SendOTP":{
+        "email":""
+     },
+
+     "PostUserId":{
+        "userId":""
+     },
+     "updateList":{
+         "_id":"",
+         "name":"",
+         "Website":"",
+         "Bio":"",
+         "Gender":"",
+         "DOB":"",
+         "ProfilePic":"",
+         "HomeLocation":""
+     },
+     "UserId":{
+         "UserId":""
+     }
+
+
+}

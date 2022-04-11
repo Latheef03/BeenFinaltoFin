@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094983005989",
+    "firebase_url": "https://been-df967.firebaseio.com",
+    "project_id": "been-df967",
+    "storage_bucket": "been-df967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094983005989:android:cbb3c244b93c25d861cccc",
+        "android_client_info": {
+          "package_name": "com.been"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094983005989-qo0ocjif8ah8ean4ulpu3l24sf9ieohu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTpiuq0RFNXEudNX7Wb63HhkxiomTIx6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094983005989-qo0ocjif8ah8ean4ulpu3l24sf9ieohu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

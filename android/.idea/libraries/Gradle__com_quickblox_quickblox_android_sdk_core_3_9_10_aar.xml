@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.quickblox:quickblox-android-sdk-core:3.9.10@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4eb834657ca171befbbd2c95c79118b/jetified-quickblox-android-sdk-core-3.9.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aa5d04ccbd9af7011739c378c133e2b3/transformed/jetified-quickblox-android-sdk-core-3.9.10/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aa5d04ccbd9af7011739c378c133e2b3/transformed/jetified-quickblox-android-sdk-core-3.9.10/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/aa5d04ccbd9af7011739c378c133e2b3/transformed/jetified-quickblox-android-sdk-core-3.9.10/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

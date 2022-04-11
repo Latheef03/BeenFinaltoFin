@@ -1,0 +1,862 @@
+[
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_check_white.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_check_white.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_hike_day.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_hike_day.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_component_planner_images_searchicon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_component_planner_images_searchicon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_localprofile_location.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_localprofile_location.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_button.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_button.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_play.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_play.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_assam.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_assam.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_contrast.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_contrast.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_logo.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_logo.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_delecious.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_delecious.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnativemediacontrols_dist_assets_ic_fullscreen.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnativemediacontrols_dist_assets_ic_fullscreen.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_send.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_send.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_leftwhitearrow.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_leftwhitearrow.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_sticker.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_sticker.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_close_black.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_close_black.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_verify.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_verify.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_businessprofile.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_businessprofile.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_backarrow.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_backarrow.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_crop.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_crop.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_bs.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_bs.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_tagpost.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_tagpost.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_3099422256.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_3099422256.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_enroutesticker2.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_enroutesticker2.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_profile.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_profile.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_visitsred.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_visitsred.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_be.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_be.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_barchart.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_barchart.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnativemediacontrols_dist_assets_ic_replay.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnativemediacontrols_dist_assets_ic_replay.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_light.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_light.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_flash_auto.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_flash_auto.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_flash_off.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_flash_off.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_borderred.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_borderred.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_gicon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_gicon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_storybutton.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_storybutton.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_check.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_check.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_af.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_af.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_localprofile_pin.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_localprofile_pin.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_goldlist.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_goldlist.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_hangoutspots.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_hangoutspots.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_planner.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_planner.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_ellipse.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_ellipse.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_cameramemoris.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_cameramemoris.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_enroutesticker.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_enroutesticker.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_enroute_2.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_enroute_2.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_like2.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_like2.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_at.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_at.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_commentblack.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_commentblack.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_planner1.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_planner1.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_camerared.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_camerared.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_location_check_in.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_location_check_in.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_gym_time.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_gym_time.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnativemediacontrols_dist_assets_ic_pause.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnativemediacontrols_dist_assets_ic_pause.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_locaion_marker_space.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_locaion_marker_space.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_videocont.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_videocont.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_places.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_places.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_backfeed.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_backfeed.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_pickericon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_pickericon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_dz.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_dz.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_goingicon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_goingicon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_3dots1.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_3dots1.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_notes.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_notes.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_story_turncam.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_story_turncam.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_floralgrey.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_floralgrey.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnativemediacontrols_dist_assets_ic_play.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnativemediacontrols_dist_assets_ic_play.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_brackets.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_brackets.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_friendrequests.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_friendrequests.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\app.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_close_white.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_close_white.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_businessplace.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_businessplace.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_box.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_box.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_award_wings.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_award_wings.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_singletick.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_singletick.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_audio_on.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_audio_on.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_al.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_al.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_nf_add_post.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_nf_add_post.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_friends.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_friends.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_localprofile_user.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_localprofile_user.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_hidepass.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_hidepass.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_as.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_as.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_leftarrow.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_leftarrow.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_story_location.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_story_location.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_download.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_download.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_support.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_support.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_camera1.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_camera1.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_bd.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_bd.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_chai_time.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_chai_time.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_arm.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_arm.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnativemediacontrols_dist_assets_ic_play.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnativemediacontrols_dist_assets_ic_play.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_am.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_am.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_saturation.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_saturation.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_story2.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_story2.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_assets_json_common.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\app_assets_json_common.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_days.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_days.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_ag.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_ag.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_requestlist.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_requestlist.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_ar.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_ar.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_image.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_image.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_videored.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_videored.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_pause.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_pause.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_bordergold.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_bordergold.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_sendbuttons.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_sendbuttons.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_ao.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_ao.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_local_profile.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_local_profile.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_camera.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_camera.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bright.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bright.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_planner.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_planner.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_story_gallery.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_story_gallery.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_3dots.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_3dots.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_run.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_run.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_expression.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_expression.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnativemediacontrols_dist_assets_ic_fullscreen.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnativemediacontrols_dist_assets_ic_fullscreen.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_rightarrowheader.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_rightarrowheader.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_traveler.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_traveler.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_loc_marker_unseen.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_loc_marker_unseen.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_india.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_india.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_earth.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_earth.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_audio_off.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_audio_off.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_notification.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_notification.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_buplmap.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_buplmap.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_localicon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_localicon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_vlogselected.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_vlogselected.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_backgroundcolor.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_backgroundcolor.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_nativebase_dist_src_basic_icon_selection.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_nativebase_dist_src_basic_icon_selection.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_visits.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_visits.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_by.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_by.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_borderblue.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_borderblue.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_localprofile_add.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_localprofile_add.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_likeblack.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_likeblack.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_reloadwhite.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_reloadwhite.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_flash_on.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_flash_on.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_edit.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_edit.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_component_planner_images_addicon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_component_planner_images_addicon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_localprofile_blacklocation.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_localprofile_blacklocation.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_message.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_message.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_ic_checkbox_selected.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_ic_checkbox_selected.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_comment2.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_comment2.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app_component__utils_countriesgeo.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\app_component__utils_countriesgeo.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_bb.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_bb.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_showpass.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_showpass.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_downarrow.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_downarrow.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_nativebase_dist_src_basic_icon_nbicons.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_nativebase_dist_src_basic_icon_nbicons.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_ticksmall.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_ticksmall.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_clear.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_clear.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_view.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_view.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_private.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_private.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_multipic.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_multipic.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_bh.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_bh.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_new_visit_check_in.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_new_visit_check_in.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_stickers_hashtag.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_stickers_hashtag.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_close.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_close.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnativemediacontrols_dist_assets_ic_replay.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnativemediacontrols_dist_assets_ic_replay.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_story_snap.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_story_snap.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_imagered.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_imagered.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_az.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_az.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_goldicon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_goldicon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_location1.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_location1.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_text.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_text.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_video.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_video.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_screenshot_1575975832.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_screenshot_1575975832.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_3099422512.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_3099422512.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_calendar.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_calendar.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_profile.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_profile.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_localprofile_yellowstar.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_localprofile_yellowstar.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_search.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_search.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_setting.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_setting.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_home_add_story.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_home_add_story.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_mpostselected.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_mpostselected.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_thumbcircle.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_thumbcircle.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_ic_checkbox.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_ic_checkbox.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_redheart.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_redheart.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_au.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_au.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_bussinesicons_flagicons_ad.jpg.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_bussinesicons_flagicons_ad.jpg"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_assets_images_new_ballon.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\app_assets_images_new_ballon.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnativemediacontrols_dist_assets_ic_pause.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnativemediacontrols_dist_assets_ic_pause.png"
+    },
+    {
+        "merged": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "F:\\HiyaakATK\\Been14oct 2(26322-crash-resolved)\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    }
+]
