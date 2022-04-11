@@ -1,0 +1,596 @@
+[
+  {
+    "delayed": false,
+    "readIds": [
+      123713436
+    ],
+    "senderId": 123713436,
+    "dateSent": 1610434569000,
+    "id": "5ffd4807fa6e9b3a2a728ff7",
+    "body": "2d4gb4g",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123713436,
+      123113732
+    ],
+    "recipientId": 123113732,
+    "properties": {
+      "updated_at": "2021-01-12T06:56:07Z",
+      "read": "1"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123713436
+    ],
+    "senderId": 123713436,
+    "dateSent": 1610434574000,
+    "id": "5ffd480efa6e9b3a2a728ff8",
+    "body": "Egnrjm5um",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123713436,
+      123113732
+    ],
+    "recipientId": 123113732,
+    "properties": {
+      "updated_at": "2021-01-12T06:56:14Z",
+      "read": "1"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123713436
+    ],
+    "senderId": 123713436,
+    "dateSent": 1610434626000,
+    "id": "5ffd4842fa6ea38e719d9c2d",
+    "body": "Fzifzitf",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123713436,
+      123113732
+    ],
+    "recipientId": 123113732,
+    "properties": {
+      "updated_at": "2021-01-12T06:57:06Z",
+      "read": "1"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123713436
+    ],
+    "senderId": 123713436,
+    "dateSent": 1610434641000,
+    "id": "5ffd4851fa6ea38e719d9c31",
+    "body": "Yidits7r",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123713436,
+      123113732
+    ],
+    "recipientId": 123113732,
+    "properties": {
+      "updated_at": "2021-01-12T06:57:21Z",
+      "read": "1"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1610434709000,
+    "id": "5ffd48949e04b900e87f6478",
+    "body": "hi",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732,
+      123713436
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-12T06:58:29Z",
+      "read": "0"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123713436
+    ],
+    "senderId": 123713436,
+    "dateSent": 1610434774000,
+    "id": "5ffd48d5fa6ea38e719d9c3d",
+    "body": "Ig y9",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123713436,
+      123113732
+    ],
+    "recipientId": 123113732,
+    "properties": {
+      "updated_at": "2021-01-12T06:59:34Z",
+      "read": "1"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1610434793000,
+    "id": "5ffd48e89e04b900e87f647a",
+    "body": "hiw you",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732,
+      123713436
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-12T06:59:53Z",
+      "read": "0"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123713436
+    ],
+    "senderId": 123713436,
+    "dateSent": 1610434800000,
+    "id": "5ffd48f0fa6ea38e719d9c3f",
+    "body": " Jc",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123713436,
+      123113732
+    ],
+    "recipientId": 123113732,
+    "properties": {
+      "updated_at": "2021-01-12T07:00:00Z",
+      "read": "1"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1610434810000,
+    "id": "5ffd48fa9e04b900e87f647c",
+    "body": "am fine",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732,
+      123713436
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-12T07:00:10Z",
+      "read": "0"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123713436
+    ],
+    "senderId": 123713436,
+    "dateSent": 1610434836000,
+    "id": "5ffd4914fa6ea38e719d9c41",
+    "body": "Udtd",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123713436,
+      123113732
+    ],
+    "recipientId": 123113732,
+    "properties": {
+      "updated_at": "2021-01-12T07:00:36Z",
+      "read": "1"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1610434846000,
+    "id": "5ffd491e9e04b900e87f6487",
+    "body": "loiiu",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732,
+      123713436
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-12T07:00:46Z",
+      "read": "0"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123713436
+    ],
+    "senderId": 123713436,
+    "dateSent": 1610434855000,
+    "id": "5ffd4927fa6ea38e719d9c43",
+    "body": "Yfydyfyd",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123713436,
+      123113732
+    ],
+    "recipientId": 123113732,
+    "properties": {
+      "updated_at": "2021-01-12T07:00:55Z",
+      "read": "1"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1610434910000,
+    "attachments": [
+      {
+        "id": "558dd3f576b34dcab1f9503b232d99ad00",
+        "type": "image"
+      }
+    ],
+    "id": "5ffd495e9e04b900e87f6489",
+    "body": "null",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732,
+      123713436
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-12T07:01:50Z",
+      "read": "0"
+    },
+    "attachmentsURL": "https://api.quickblox.com/blobs/558dd3f576b34dcab1f9503b232d99ad00?token=849805059f637c18a11e748458dc1d3ea7013a93"
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123713436
+    ],
+    "senderId": 123713436,
+    "dateSent": 1610434972000,
+    "attachments": [
+      {
+        "id": "ebe41c2fbfa3459b8f1098fa79f4f08200",
+        "type": "image"
+      }
+    ],
+    "id": "5ffd499afa6ea38e719d9c45",
+    "body": "null",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123713436,
+      123113732
+    ],
+    "recipientId": 123113732,
+    "properties": {
+      "updated_at": "2021-01-12T07:02:52Z",
+      "read": "1"
+    },
+    "attachmentsURL": "https://api.quickblox.com/blobs/ebe41c2fbfa3459b8f1098fa79f4f08200?token=849805059f637c18a11e748458dc1d3ea7013a93"
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1610458443000,
+    "id": "5ffda54b9e041aaf02b7000f",
+    "body": "http://51.15.201.39/webp/uploads/NewsFeedStories/1607274961544-ReactNative-snapshot-image15539738535663294.png",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732,
+      123713436
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-12T13:34:03Z",
+      "read": "0",
+      "feedData": "[{\"userId\":\"5f81ab7c04123d2dc6cd64e0\",\"UserName\":\"mms_blacky\",\"UserProfilePic\":\"1610363265368-IMG_20201228130835_152.jpg\",\"ChatUserId\":\"123113732\",\"PostId\":\"5fcd11e1b43ab11b5ab51303\",\"Image\":\"1607274961544-ReactNative-snapshot-image15539738535663294.png\",\"Country\":\"Finland\",\"coords\":\"{\\\"latitude\\\":60.40519860000001,\\\"longitude\\\":25.0958066}\",\"Location\":\"Kerava\",\"tagid\":\"null\",\"SponsoredBy\":\"null\",\"Notificationsetting\":\"Off\",\"LikeCount\":2,\"Commentcount\":0,\"Bookmarkcount\":0,\"Description\":null,\"Desc\":[],\"HashTag\":null,\"data_id\":\"undefined\",\"place_id\":\"ChIJXVCB3WIAkkYRMLFLVVG1AAQ\",\"formattedAddress\":\"Kerava, Finland\",\"userLiked\":true,\"mIndex\":0,\"duration\":0.1}]"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1610720896000,
+    "id": "6001a67ffa6e2f0705c5b290",
+    "body": "Ji",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-15T14:28:16Z",
+      "read": "0"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1610720908000,
+    "id": "6001a68cfa6e2f0705c5b291",
+    "body": "Tgus is test msg in chat",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-15T14:28:28Z",
+      "read": "0"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1610896689000,
+    "attachments": [
+      {
+        "id": "eedaa317da67440fab309bb153d657b900",
+        "type": "image"
+      }
+    ],
+    "id": "60045508fa6e19a9ae48e4c1",
+    "body": "null",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-17T15:18:09Z",
+      "read": "0"
+    },
+    "attachmentsURL": "https://api.quickblox.com/blobs/eedaa317da67440fab309bb153d657b900?token=849805059f637c18a11e748458dc1d3ea7013a93"
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1610960094000,
+    "id": "60054cdefa6eb8db9aafd0b9",
+    "body": "Yfx6rxy8",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-18T08:54:54Z",
+      "read": "0"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1610960134000,
+    "attachments": [
+      {
+        "id": "56c5315d03b54758b4093793d020942c00",
+        "type": "image"
+      }
+    ],
+    "id": "60054d05fa6eb8db9aafd0ba",
+    "body": "null",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-18T08:55:34Z",
+      "read": "0"
+    },
+    "attachmentsURL": "https://api.quickblox.com/blobs/56c5315d03b54758b4093793d020942c00?token=849805059f637c18a11e748458dc1d3ea7013a93"
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1611038450000,
+    "attachments": [
+      {
+        "id": "f7715baa94f14951a68ff4038512d22700",
+        "type": "image"
+      }
+    ],
+    "id": "60067ef1fa6e5ea8e1702ebb",
+    "body": "null",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-19T06:40:50Z",
+      "read": "0"
+    },
+    "attachmentsURL": "https://api.quickblox.com/blobs/f7715baa94f14951a68ff4038512d22700?token=849805059f637c18a11e748458dc1d3ea7013a93"
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1611038489000,
+    "id": "60067f17fa6e5ea8e1702ed6",
+    "body": " Uv 7f7f 7 g7 ",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-19T06:41:29Z",
+      "read": "0"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1611038600000,
+    "id": "60067f87fa6e5ea8e1702ef4",
+    "body": "6fc5exf",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-19T06:43:20Z",
+      "read": "0"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1611050730000,
+    "id": "6006aebfc0b2afcd6302f705",
+    "body": "http://51.15.201.39/webp/uploads/NewsFeedStories/1611043953432-video.mp4",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-19T10:05:30Z",
+      "read": "0",
+      "feedData": "[{\"userId\":\"5f81ab7c04123d2dc6cd64e0\",\"UserName\":\"mms_blacky\",\"UserProfilePic\":\"1610363265368-IMG_20201228130835_152.jpg\",\"ChatUserId\":\"123113732\",\"PostId\":\"600694d6a7c58b6d35b98735\",\"Image\":\"1611043953432-video.mp4\",\"Country\":\"India\",\"coords\":\"{\\\"latitude\\\":12.9715987,\\\"longitude\\\":77.5945627}\",\"Location\":\"Bangalore\",\"tagid\":\"null\",\"SponsoredBy\":\"null\",\"Notificationsetting\":\"Off\",\"LikeCount\":1,\"Commentcount\":0,\"Bookmarkcount\":0,\"Description\":\"null\",\"Desc\":null,\"HashTag\":null,\"data_id\":\"undefined\",\"place_id\":\"ChIJbU60yXAWrjsR4E9-UejD3_g\",\"formattedAddress\":\"Bangalore, Karnataka, India\",\"userLiked\":true,\"mIndex\":0,\"duration\":0.1}]"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1611058188000,
+    "id": "6006cc03c0b21b7eb6714f7e",
+    "body": "http://51.15.201.39/webp/uploads/NewsFeedStories/1610896159063-ReactNative-snapshot-image4280043736423951100.png",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-19T12:09:48Z",
+      "read": "0",
+      "feedData": "[{\"userId\":\"5f81ab7c04123d2dc6cd64e0\",\"UserName\":\"mms_blacky\",\"UserProfilePic\":\"1610363265368-IMG_20201228130835_152.jpg\",\"PostId\":\"6004533ba7c58b6d35b98709\",\"Image\":\"1610896159063-ReactNative-snapshot-image4280043736423951100.png\",\"Country\":\"India\",\"Location\":\"Chennai\",\"tagid\":\"null\",\"coords\":\"{\\\"latitude\\\":13.0826802,\\\"longitude\\\":80.2707184}\",\"LikeCount\":1,\"Commentcount\":0,\"Bookmarkcount\":0,\"Description\":null,\"data_id\":\"undefined\",\"place_id\":\"ChIJYTN9T-plUjoRM9RjaAunYW4\",\"formattedAddress\":\"Chennai, Tamil Nadu, India\",\"Desc\":[],\"HashTag\":null,\"Notificationsetting\":\"Off\",\"CreatedAt\":\"17-01-2021 03:09:47 PM\",\"NewsFeedPost\":\"1610896159063-ReactNative-snapshot-image4280043736423951100.png\",\"likes\":true}]"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1611058199000,
+    "id": "6006cc11c0b21b7eb6714f7f",
+    "body": "http://51.15.201.39/webp/uploads/NewsFeedStories/1610896159063-ReactNative-snapshot-image4280043736423951100.png",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-19T12:09:59Z",
+      "read": "0",
+      "feedData": "[{\"userId\":\"5f81ab7c04123d2dc6cd64e0\",\"UserName\":\"mms_blacky\",\"UserProfilePic\":\"1610363265368-IMG_20201228130835_152.jpg\",\"PostId\":\"6004533ba7c58b6d35b98709\",\"Image\":\"1610896159063-ReactNative-snapshot-image4280043736423951100.png\",\"Country\":\"India\",\"Location\":\"Chennai\",\"tagid\":\"null\",\"coords\":\"{\\\"latitude\\\":13.0826802,\\\"longitude\\\":80.2707184}\",\"LikeCount\":1,\"Commentcount\":0,\"Bookmarkcount\":0,\"Description\":null,\"data_id\":\"undefined\",\"place_id\":\"ChIJYTN9T-plUjoRM9RjaAunYW4\",\"formattedAddress\":\"Chennai, Tamil Nadu, India\",\"Desc\":[],\"HashTag\":null,\"Notificationsetting\":\"Off\",\"CreatedAt\":\"17-01-2021 03:09:47 PM\",\"NewsFeedPost\":\"1610896159063-ReactNative-snapshot-image4280043736423951100.png\",\"likes\":true}]"
+    }
+  },
+  {
+    "delayed": false,
+    "readIds": [
+      123113732
+    ],
+    "senderId": 123113732,
+    "dateSent": 1611059035000,
+    "id": "6006cf5afa6ef12d9861a0cd",
+    "body": "Hi",
+    "markable": false,
+    "dialogId": "5ffd4801a0eb474aef688ef5",
+    "deliveredIds": [
+      123113732
+    ],
+    "recipientId": 123713436,
+    "properties": {
+      "updated_at": "2021-01-19T12:23:55Z",
+      "read": "0"
+    }
+  }
+]
