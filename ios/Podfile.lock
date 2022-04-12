@@ -330,13 +330,13 @@ PODS:
   - react-native-admob-native-ads (0.4.1):
     - GoogleMobileAdsMediationFacebook
     - React-Core
-  - react-native-camera (3.44.3):
+  - react-native-camera (4.2.1):
     - React-Core
-    - react-native-camera/RCT (= 3.44.3)
-    - react-native-camera/RN (= 3.44.3)
-  - react-native-camera/RCT (3.44.3):
+    - react-native-camera/RCT (= 4.2.1)
+    - react-native-camera/RN (= 4.2.1)
+  - react-native-camera/RCT (4.2.1):
     - React-Core
-  - react-native-camera/RN (3.44.3):
+  - react-native-camera/RN (4.2.1):
     - React-Core
   - react-native-cameraroll (4.0.4):
     - React-Core
@@ -429,7 +429,7 @@ PODS:
     - React
   - RNColorMatrixImageFilters (5.2.10):
     - React-Core
-  - RNCPicker (1.8.1):
+  - RNCPicker (2.1.0):
     - React-Core
   - RNDeviceInfo (8.3.1):
     - React-Core
@@ -551,7 +551,7 @@ DEPENDENCIES:
   - "RNCAsyncStorage (from `../node_modules/@react-native-async-storage/async-storage`)"
   - "RNCMaskedView (from `../node_modules/@react-native-community/masked-view`)"
   - RNColorMatrixImageFilters (from `../node_modules/react-native-color-matrix-image-filters`)
-  - "RNCPicker (from `../node_modules/@react-native-community/picker`)"
+  - "RNCPicker (from `../node_modules/@react-native-picker/picker`)"
   - RNDeviceInfo (from `../node_modules/react-native-device-info`)
   - "RNFBApp (from `../node_modules/@react-native-firebase/app`)"
   - "RNFBMessaging (from `../node_modules/@react-native-firebase/messaging`)"
@@ -684,7 +684,7 @@ EXTERNAL SOURCES:
   RNColorMatrixImageFilters:
     :path: "../node_modules/react-native-color-matrix-image-filters"
   RNCPicker:
-    :path: "../node_modules/@react-native-community/picker"
+    :path: "../node_modules/@react-native-picker/picker"
   RNDeviceInfo:
     :path: "../node_modules/react-native-device-info"
   RNFBApp:
@@ -754,7 +754,7 @@ SPEC CHECKSUMS:
   React-jsiexecutor: 93bd528844ad21dc07aab1c67cb10abae6df6949
   React-jsinspector: 58aef7155bc9a9683f5b60b35eccea8722a4f53a
   react-native-admob-native-ads: c28aa03310b62b1cb8db855381a51e659b9dc3b4
-  react-native-camera: fefef39fcd20850d17c3780638b04f741e0ccaae
+  react-native-camera: 210a872c84d3aa0982a9223047ef9e743ed694fa
   react-native-cameraroll: 7c6c7ca84844f93b3dac9a87670bbad6541684ec
   react-native-geolocation: cbd9d6bd06bac411eed2671810f454d4908484a8
   react-native-heic-converter: 0c4a970a4210dcbea45e5accc705d4e248610ef0
@@ -779,7 +779,7 @@ SPEC CHECKSUMS:
   RNCAsyncStorage: 7f72b8273be1f92076b16f68b333160d562eebad
   RNCMaskedView: f127cd9652acfa31b91dcff613e07ba18b774db6
   RNColorMatrixImageFilters: fdeaf2451ff8f7aa76679a9951b969e6c8adeede
-  RNCPicker: 914b557e20b3b8317b084aca9ff4b4edb95f61e4
+  RNCPicker: f7a40b21b915b7a187624d52f52b7bc2f73ea413
   RNDeviceInfo: a5e4ea5ffe3384b13014331c1c4e3bfb8d5a6f89
   RNFBApp: 9c90f9d576861947ba75fe0830567c570bcbcf6d
   RNFBMessaging: c873e6c37f69d22de22cab134413030a9c6330a9
@@ -794,4 +794,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: aa6ba3acb2d9e3f1d7efc3adbffbd17d31fd31ff
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.11.2

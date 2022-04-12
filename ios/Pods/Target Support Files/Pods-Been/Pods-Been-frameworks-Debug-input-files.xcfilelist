@@ -1,4 +1,4 @@
 ${PODS_ROOT}/Target Support Files/Pods-Been/Pods-Been-frameworks.sh
-${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL/OpenSSL.framework/OpenSSL
-${PODS_XCFRAMEWORKS_BUILD_DIR}/Quickblox/Quickblox.framework/Quickblox
-${PODS_XCFRAMEWORKS_BUILD_DIR}/QuickbloxWebRTC/QuickbloxWebRTC.framework/QuickbloxWebRTC
+${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL
+${PODS_XCFRAMEWORKS_BUILD_DIR}/QuickBlox/Quickblox.framework/Quickblox
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Quickblox-WebRTC/QuickbloxWebRTC.framework/QuickbloxWebRTC
