@@ -187,7 +187,7 @@ import PlannerSearchList from '../App/Component/Planner/PlannerSearchList';
 
 
 const Stack = createStackNavigator();
-
+// Latheef Added for Dummy
 function Navigation() {
   return (
     <Root>
